@@ -53,7 +53,9 @@ Dengan adanya media baru, pengguna/pemirsa/konsumen tinggal sekali duduk, gaser 
 
 ---
 
-Artikel ini ditulis dan disunting menggunakan peranti lunak sumber terbuka ()
+## Catatan:
+
+Artikel ini dikembangkan dari materi seminar *Urban Culture dan New Media: Pornograﬁ Antara Cilok dan Oncom Goreng* di Fakultas Film dan Televisi, Institut Kesenian Jakarta. Ditulis dan disunting menggunakan peranti lunak sumber terbuka.
 
 This work is licensed under a Creative Commons Attribution 4.0 International License. http://creativecommons.org/licenses/by/4.0/
 
